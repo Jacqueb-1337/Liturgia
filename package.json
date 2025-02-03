@@ -1,10 +1,10 @@
 {
-    "name": "Liturgia",
-    "main": "index.html",
-    "window": {
-      "width": 1280,
-      "height": 720,
-      "resizable": true
-    }
-  }
-  
+  "name": "Liturgia",
+  "main": "index.html",
+  "window": {
+    "width": 1280,
+    "height": 720,
+    "resizable": true
+  },
+  "chromium-args": "--disable-web-security"
+}
